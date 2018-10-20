@@ -1,0 +1,148 @@
+
+body{
+	background-color: #F2F2F2;
+	
+}
+
+header{
+	padding-top: 10%;
+}
+header img{
+    margin-top: 38%;
+    float: left;
+    margin-left: 13%;
+    width: 85%;
+}
+
+header article {
+	    margin-top: 10%;
+	width: 76%;
+	width: 70%;
+	
+	float: right;
+}
+
+.container{
+	background-color: #FFFFFF;
+	height: auto;
+}
+
+
+.figure{
+	width: 300px;
+	height: auto;
+}
+
+
+
+.navbar{
+	background-color: #E06767;
+}
+
+
+.film1{
+	padding-top: 50%;
+	padding-bottom: 20px;
+}
+
+.film1 article{
+	width: 70%;
+    float: left;
+	padding-left: 44px;
+	
+}
+.film1 figure{
+	margin-top: 10px;
+	float: left;
+padding-left: 30px;
+}
+
+
+.film2 article{
+	width: 70%;
+    float: left;
+	padding-left: 44px;
+	padding-top: 10%;
+	
+}
+.film2 figure{
+	margin-top: 10px;
+	float: left;
+padding-left: 30px;
+	padding-top: 10%;
+}
+
+.film3{
+	padding-top: 20px;
+}
+.film3 article{
+	width: 70%;
+    float: left;
+	padding-left: 44px;
+	padding-top: 10%;
+	
+}
+.film3 figure{
+	padding-top: 14%;
+	float: left;
+padding-left: 30px;
+}
+
+
+.film4{
+	padding-top: 20px;
+}
+.film4 article{
+	width: 70%;
+    float: left;
+	padding-left: 44px;
+	padding-top: 10%;
+	
+}
+.film4 figure{
+	margin-top: 10px;
+	float: left;
+padding-left: 30px;
+	padding-top: 10%;
+}
+
+.film5{
+	padding-top: 20px;
+}
+.film5 article{
+	width: 70%;
+    float: left;
+	padding-left: 44px;
+	padding-top: 10%;
+	
+}
+.film5 figure{
+	margin-top: 10px;
+	float: left;
+padding-left: 30px;
+	padding-top: 10%;
+}
+
+.btn{
+	float: right;
+	}
+.btn-danger{
+	background-color: #E06767;
+	border-color: #E06767;
+	margin-left: 10px;
+}
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
