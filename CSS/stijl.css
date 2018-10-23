@@ -49,6 +49,7 @@ hr{
     border-width: 1px;
 }
 
+<<<<<<< HEAD
 #firstline{
 	
 }
@@ -56,6 +57,23 @@ hr{
 .film1{
 	padding-top: 5%;
 	padding-bottom: 20px;
+=======
+.film1{
+	padding-top: 50%;
+	padding-bottom: 20px;
+}
+
+.film1 article{
+	width: 70%;
+    float: left;
+	padding-left: 44px;
+	
+}
+.film1 figure{
+	margin-top: 10px;
+	float: left;
+padding-left: 30px;
+>>>>>>> 4f2992b4ce249fd93d95763331716145f31f204e
 }
 
 .film1 article{
@@ -70,7 +88,6 @@ hr{
 padding-left: 30px;
 }
 
-
 .film2 article{
 	width: 70%;
     float: left;
@@ -83,6 +100,34 @@ padding-left: 30px;
 	float: left;
 padding-left: 30px;
 	padding-top: 10%;
+}
+
+<<<<<<< HEAD
+.film2 article{
+=======
+.film3{
+	padding-top: 20px;
+}
+.film3 article{
+>>>>>>> 4f2992b4ce249fd93d95763331716145f31f204e
+	width: 70%;
+    float: left;
+	padding-left: 44px;
+	padding-top: 10%;
+	
+}
+<<<<<<< HEAD
+.film2 figure{
+	margin-top: 10px;
+	float: left;
+padding-left: 30px;
+	padding-top: 10%;
+=======
+.film3 figure{
+	padding-top: 14%;
+	float: left;
+padding-left: 30px;
+>>>>>>> 4f2992b4ce249fd93d95763331716145f31f204e
 }
 
 .film3{
@@ -101,7 +146,6 @@ padding-left: 30px;
 padding-left: 30px;
 }
 
-
 .film4{
 	padding-top: 20px;
 }
@@ -119,6 +163,26 @@ padding-left: 30px;
 	padding-top: 10%;
 }
 
+<<<<<<< HEAD
+.film4{
+	padding-top: 20px;
+}
+.film4 article{
+	width: 70%;
+    float: left;
+	padding-left: 44px;
+	padding-top: 10%;
+	
+}
+.film4 figure{
+	margin-top: 10px;
+	float: left;
+padding-left: 30px;
+	padding-top: 10%;
+}
+
+=======
+>>>>>>> 4f2992b4ce249fd93d95763331716145f31f204e
 .film5{
 	padding-top: 20px;
 }
@@ -144,6 +208,7 @@ padding-left: 30px;
 	border-color: #E06767;
 	margin-left: 10px;
 }
+<<<<<<< HEAD
 
 .col-xs-12 article{
 	width: 100%;
@@ -162,6 +227,8 @@ footer img{
 	margin-left: 0.4em;
 	
 }
+=======
+>>>>>>> 4f2992b4ce249fd93d95763331716145f31f204e
 
 #arrow{
 	width: 100px;
